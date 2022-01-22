@@ -25,7 +25,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Salir a correr
 - Ver series 
 
-*Gabriela Alvarado
--Me gusta ir a conciertos🎶
--Me gusta tomar fotos📷
--Me gusta aprender cosas nuevas💡
+*Gabriela Alvarado <br>
+-Me gusta ir a conciertos🎶<br>
+-Me gusta tomar fotos📷<br>
+-Me gusta aprender cosas nuevas💡<br>
