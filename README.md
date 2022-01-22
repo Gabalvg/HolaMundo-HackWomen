@@ -24,3 +24,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+
+*Gabriela Alvarado
+-Me gusta ir a conciertos🎶
+-Me gusta tomar fotos📷
+-Me gusta aprender cosas nuevas💡
